@@ -14,5 +14,6 @@ Screenshots
 <img width="1787" height="757" alt="image" src="https://github.com/user-attachments/assets/6cc6c7e7-b54f-4099-9c6b-b6247bda6e23" />
 
 Features to come....
+<img width="944" height="397" alt="image" src="https://github.com/user-attachments/assets/d7ba9103-c611-4cf8-98d6-89d2e357a153" />
 
-<img width="491" height="292" alt="image" src="https://github.com/user-attachments/assets/8f9774bc-d840-4551-a0b8-82aa002748ec" />
+
