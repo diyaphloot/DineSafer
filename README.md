@@ -6,4 +6,4 @@ This repo has 3 components
 2. Backend (API Server)
 3. Database
 
-The setup and Run methods are provided in the ReadMe within each directory.
+The setup  instructions are provided in the README files within each directory.
