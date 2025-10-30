@@ -1,0 +1,154 @@
+/* src/App.css */
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* App.css */
+.full-width-page {
+  width: 100vw;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.App {
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+  text-align: center;
+}
+
+.search-container {
+  background: #0d1d47;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.input-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+}
+
+input[type="text"] {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  padding: 12px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.card-container {
+  display: flex;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  margin-top: 20px;
+  justify-content: center;
+  height: auto;
+}
+
+.card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  border: 1px solid #ddd;
+  text-align: left;
+  height: auto;
+}
+
+.card h2 {
+  margin-top: 0;
+  font-size: 20px;
+  color: #333;
+}
+
+.card p {
+  color: #666;
+  font-size: 14px;
+}
+
+.vertical-line {
+  border-left: 1px solid black; /* Creates a 1px black vertical line on the left */
+  height: 100px; /* Sets the height of the line */
+  /* Optional: Adjust margin for positioning */
+  margin: 0 auto;
+}
+
+ul {
+      list-style-type: none; /* Removes the default bullet points */
+      padding-left: 0; /* Removes default left padding from the ul */
+      color: #666;
+      font-size: 16px;
+}
+
+
+
+footer {
+  background-color: #284b80; /* Dark background color */
+  color: #d1cfd4; /* Light text color */
+  padding: 20px; /* Spacing inside the footer */
+  text-align: center; /* Center-align content */
+}
+
+a:active {
+  color: blue;
+}
+
+footer a {
+     color: #fff;
+}
+
+footer a:hover {
+     color: #fa5705;
+}
+
+
+#container {
+
+}
+
+
+.items {
+  margin-bottom: 1rem;
+  padding: 150px;
+}
+
+
+.mySelect__value-container{
+ height: 35px;
+}
+
+
+
